@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @richard-lino
-- 👀 I’m interested in web development, artificial intelligence, and data science.
-- 🌱 I’m currently learning front-end frameworks like React and Vue.js, as well as deepening my knowledge in machine learning.
-- 💞️ I’m looking to collaborate on open-source projects involving AI or innovative web application development.
-- 📫 How to reach me: You can find me on LinkedIn at www.linkedin.com/in/richard-lino or email me at eng.richard.lino@gmail.com.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m a series marathon enthusiast and love experimenting with new recipes on weekends.
-
+Sobre mim:
+👋 Olá, sou @richard-lino
+👀 Estou interessado em desenvolvimento web, inteligência artificial e ciência de dados.
+🌱 Atualmente, estou aprendendo frameworks front-end como React e Vue.js, além de aprofundar meus conhecimentos em aprendizado de máquina.
+💞️ Estou buscando colaborar em projetos de código aberto envolvendo IA ou desenvolvimento de aplicativos web inovadores.
+📫 Como me encontrar: Você pode me encontrar no LinkedIn em www.linkedin.com/in/richard-lino ou me enviar um e-mail para eng.richard.lino@gmail.com.
+😄 Pronomes: Ele/Dele
+⚡ Curiosidade: Sou um entusiasta de maratonas de séries e adoro experimentar novas receitas nos finais de semana.
