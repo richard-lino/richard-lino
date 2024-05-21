@@ -45,9 +45,9 @@ Além de programar e desenvolver projetos, esses são alguns dos meus hobbies fa
 Se você quiser entrar em contato comigo, pode me encontrar em:
 <div>
   
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" />](https://www.linkedin.com/in/richard-lino)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" />](www.linkedin.com/in/richard-lino)
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" height="30" />](https://github.com/richard-lino)
-  [![Email](https://img.shields.io/badge/Email-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](eng.richard.lino@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:eng.richard.lino@gmail.com)
 
 
 
