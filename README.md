@@ -43,6 +43,7 @@ Além de programar e desenvolver projetos, esses são alguns dos meus hobbies fa
 ## Contato
 
 Se você quiser entrar em contato comigo, pode me encontrar em:
+
 <div>
   
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" />](https://www.linkedin.com/in/richard-lino/)
